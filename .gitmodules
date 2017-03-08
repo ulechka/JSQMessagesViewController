@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/JSQSystemSoundPlayer"]
+	path = Carthage/Checkouts/JSQSystemSoundPlayer
+	url = https://github.com/jessesquires/JSQSystemSoundPlayer.git

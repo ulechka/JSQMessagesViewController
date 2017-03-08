@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "90530B99EB0008E7A50951FDFBE02169118FA649",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "90530B99EB0008E7A50951FDFBE02169118FA649" : 9223372036854775807,
+    "3295696B2ABB63B244A5608CBC7B986155E10CBC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4FD5A59-6B76-4ED3-AD51-0DA9239578E3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "90530B99EB0008E7A50951FDFBE02169118FA649" : "JSQMessagesViewController\/",
+    "3295696B2ABB63B244A5608CBC7B986155E10CBC" : "JSQMessagesViewController\/Carthage\/Checkouts\/JSQSystemSoundPlayer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JSQMessagesViewController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JSQMessagesViewController.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jessesquires\/JSQSystemSoundPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3295696B2ABB63B244A5608CBC7B986155E10CBC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ulechka\/JSQMessagesViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90530B99EB0008E7A50951FDFBE02169118FA649"
+    }
+  ]
+}
